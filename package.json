@@ -1,0 +1,25 @@
+{
+  "name": "directus2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "directus start",
+    "build": "npx directus bootstrap",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armgitaar/directus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armgitaar/directus/issues"
+  },
+  "homepage": "https://github.com/armgitaar/directus#readme",
+  "dependencies": {
+    "directus": "^9.0.0-rc.89"
+  }
+}
