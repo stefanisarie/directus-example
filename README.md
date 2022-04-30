@@ -1,8 +1,8 @@
 ## Step 1: Add New NodeJS SSR Site
 
-On a new server in your [cleavr.io account](https://cleavr.io), add a new site and select **Directus** as the app type, expand **Advanced Options** and enter **8055** for **Port Number**.
+On a new server in your [cleavr.io account](https://cleavr.io), add a new site and select **Directus** as the app type.
 
-Select the **Advanced Options** and enable the option to **Setup Database**. Select MySQL for your database server type. 
+Expand **Advanced Options** and enable the option to **Setup Database**. Select MySQL for your database server type. 
 
 ![Add database](https://docs.cleavr.io/images/directus/database.png)
 
