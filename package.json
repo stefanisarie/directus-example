@@ -19,7 +19,8 @@
     "url": "https://github.com/armgitaar/directus/issues"
   },
   "homepage": "https://github.com/armgitaar/directus#readme",
+  "type": "module",
   "dependencies": {
-    "directus": "^9.0.0-rc.89"
+    "directus": "^10.1.1"
   }
 }
