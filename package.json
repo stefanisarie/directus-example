@@ -21,6 +21,6 @@
   "homepage": "https://github.com/armgitaar/directus#readme",
   "type": "module",
   "dependencies": {
-    "directus": "^11.3.5"
+    "directus": "11.0.2"
   }
 }
